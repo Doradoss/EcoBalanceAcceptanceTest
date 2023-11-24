@@ -1,4 +1,4 @@
-Feature: US06 - Grabar y editar video del producto para agregar a la Landing Page
+Feature: US06 - Grabar y editar video about the product para agregarlo a la Landing Page
 
   Como miembro del equipo de marketing
   Quiero grabar y editar un video sobre el producto
